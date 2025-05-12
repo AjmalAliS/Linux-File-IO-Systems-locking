@@ -77,7 +77,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![filecopy](./img/filecopy.png./lock.)
+![filecopy](./img/filecopy.png)
 
 ## 2.To Write a C program that illustrates files locking
 
